@@ -63,8 +63,8 @@ t:
         en: "or"
         es: "o"
     what-do-honey-bees-pollinate:
-        en: "What do honey bees (<em>Apis</em>) pollinate?"
-        es: "Qué plantas poliniza la abeja mielera (<em>Apis</em>)?"
+        en: "What do honey bees (<em>Apis sp.</em>) pollinate?"
+        es: "Qué plantas poliniza la abeja mielera (<em>Apis sp.</em>)?"
     what-kind-of:
         en: "What kind of"
         es: "Qué tipo de"
@@ -79,12 +79,12 @@ t:
         es: "Ninguno"
     nothing:
         en: "nothing"
-        es: "nothing"
+        es: "nada"
     search-suggestion:
         en: >
           nothing that we are aware of. Please make sure to use <a href="https://en.wikipedia.org/wiki/Taxon">scientific taxon names</a> to describe the organism that you are interested in. For instance, instead of searching for "guppy", use <a href="?sourceTaxon=Poecilia%20reticulata"><em>Poecilia reticulata</em></a>.
         es: >
-          nothing that we are aware of. Please make sure to use <a href="https://en.wikipedia.org/wiki/Taxon">scientific taxon names</a> to describe the organism that you are interested in. For instance, instead of searching for "guppy", use <a href="?sourceTaxon=Poecilia%20reticulata"><em>Poecilia reticulata</em></a>.
+          no encontramos nada. Asegúrate de estar utilizando el <a href="https://es.wikipedia.org/wiki/Taxon">nombre científico</a> del taxón para describir el organismo que te interesa. En lugar de buscar por "Guppy", busca por <a href="?sourceTaxon=Poecilia%20reticulata"><em>Poecilia reticulata</em></a>.
     refuted-by:
         en: "Refuted by"
         es: "Rechazado por"
